@@ -2,17 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/mwaleedta"><img src="https://img.shields.io/badge/GitHub-mwaleedta-191a1b?style=flat&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/waleedtariq/"><img src="https://img.shields.io/badge/LinkedIn-waleedtariq-08090a?style=flat&logo=linkedin&logoColor=7170ff" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mwaleedta/"><img src="https://img.shields.io/badge/LinkedIn-waleedtariq-08090a?style=flat&logo=linkedin&logoColor=7170ff" alt="LinkedIn"></a>
   <a href="https://x.com/styg1an"><img src="https://img.shields.io/badge/X-@styg1an-0f1011?style=flat&logo=x&logoColor=7170ff" alt="X"></a>
-  <a href="mailto:waleedtariq@proton.me"><img src="https://img.shields.io/badge/Email-waleedtariq@proton.me-191a1b?style=flat&logo=protonmail&logoColor=7170ff" alt="Email"></a>
+  <a href="mailto:mwaleedta@gmail.com"><img src="https://img.shields.io/badge/Email-waleedtariq@proton.me-191a1b?style=flat&logo=protonmail&logoColor=7170ff" alt="Email"></a>
 </p>
 
 ---
 
 ## About
-
-CS graduate from **NUST Islamabad**. Currently pursuing **MSc Financial Engineering** at **ESILV Paris** (graduating Jan 2027).  
-Based in **Muscat, Oman**. CTF player under alias **styg1an**.  
 
 Building at the intersection of **quantitative finance**, **AI/ML systems**, and **security research**.
 
@@ -23,7 +20,7 @@ Building at the intersection of **quantitative finance**, **AI/ML systems**, and
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **Fortis Capital** | Quant research platform: AegisNLP (sentiment), Aegis Prediction (TFT), HRP allocation, LangGraph analyst agent | Python, VectorBT, Backtrader, TFT, LangGraph |
-| **Skillova RAG** | Self-hosted RAG pipeline with n8n, Qdrant, Gemini embeddings | n8n, Qdrant, Gemini, TypeScript |
+| ** Skillova ** | Self-hosted RAG pipeline with n8n, Qdrant, Gemini embeddings | n8n, Qdrant, Gemini, TypeScript |
 | **composer-mcp** | MCP server for AI-assisted music generation via Strudel | Rust, MCP, Strudel |
 | **quant-research-skill** | End-to-end quant research toolkit with VectorBT/Backtrader routing | Python, VectorBT, Backtrader |
 
