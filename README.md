@@ -46,6 +46,19 @@
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=mwaleedta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=mwaleedta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mwaleedta&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%">
+</p>
+
+---
+
 ## Currently Exploring
 
 - **Post-quantum cryptography** migration pathways (ML-KEM, X25519 hybrids)
