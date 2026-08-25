@@ -2,14 +2,17 @@
 
 <p align="center">
   <a href="https://github.com/mwaleedta"><img src="https://img.shields.io/badge/GitHub-mwaleedta-191a1b?style=flat&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/mwaleedta/"><img src="https://img.shields.io/badge/LinkedIn-waleedtariq-08090a?style=flat&logo=linkedin&logoColor=7170ff" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/waleedtariq/"><img src="https://img.shields.io/badge/LinkedIn-waleedtariq-08090a?style=flat&logo=linkedin&logoColor=7170ff" alt="LinkedIn"></a>
   <a href="https://x.com/styg1an"><img src="https://img.shields.io/badge/X-@styg1an-0f1011?style=flat&logo=x&logoColor=7170ff" alt="X"></a>
-  <a href="mailto:mwaleedta@gmail.com"><img src="https://img.shields.io/badge/Email-waleedtariq@proton.me-191a1b?style=flat&logo=protonmail&logoColor=7170ff" alt="Email"></a>
+  <a href="mailto:waleedtariq@proton.me"><img src="https://img.shields.io/badge/Email-waleedtariq@proton.me-191a1b?style=flat&logo=protonmail&logoColor=7170ff" alt="Email"></a>
 </p>
 
 ---
 
 ## About
+
+CS graduate from **NUST Islamabad**. Currently pursuing **MSc Financial Engineering** at **ESILV Paris** (graduating Jan 2027).  
+Based in **Muscat, Oman**. CTF player under alias **styg1an**.  
 
 Building at the intersection of **quantitative finance**, **AI/ML systems**, and **security research**.
 
@@ -20,25 +23,23 @@ Building at the intersection of **quantitative finance**, **AI/ML systems**, and
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **Fortis Capital** | Quant research platform: AegisNLP (sentiment), Aegis Prediction (TFT), HRP allocation, LangGraph analyst agent | Python, VectorBT, Backtrader, TFT, LangGraph |
-| ** Skillova ** | Self-hosted RAG pipeline with n8n, Qdrant, Gemini embeddings | n8n, Qdrant, Gemini, TypeScript |
+| **Skillova** | Self-hosted RAG pipeline with n8n, Qdrant, Gemini embeddings | n8n, Qdrant, Gemini, TypeScript |
 | **composer-mcp** | MCP server for AI-assisted music generation via Strudel | Rust, MCP, Strudel |
 | **quant-research-skill** | End-to-end quant research toolkit with VectorBT/Backtrader routing | Python, VectorBT, Backtrader |
 
 ---
 
-## Tech Stack
+## Tech Stack & Tools
 
-**Languages**  
-`Python` `Rust` `JavaScript` `TypeScript` `SQL`
-
-**AI/ML & Quant**  
-`VectorBT` `Backtrader` `TFT` `LangGraph` `Gemini` `Qdrant` `n8n`
-
-**Infrastructure & Tools**  
-`Docker` `Kubernetes` `Linux` `Git` `Ghidra` `IDA Pro` `Frida` `Burp Suite`
-
-**Security**  
-`CTF` `Reverse Engineering` `Binary Exploitation` `Web App Security` `Red Teaming`
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4A3A.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-%23DC3545.svg?style=for-the-badge&logo=qdrant&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
