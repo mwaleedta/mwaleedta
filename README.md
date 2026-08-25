@@ -9,23 +9,26 @@
 
 ---
 
-## About
+## Featured Projects
 
-CS graduate from **NUST Islamabad**. Currently pursuing **MSc Financial Engineering** at **ESILV Paris** (graduating Jan 2027).  
-Based in **Muscat, Oman**. CTF player under alias **styg1an**.  
+### [LMSR Pricing Engine](https://github.com/mwaleedta/lmsr-pricing-engine)
+**Logarithmic Market Scoring Rule** — Standalone implementation of the automated market maker (AMM) pricing mechanism for prediction markets. Powers platforms like Polymarket.
 
-Building at the intersection of **quantitative finance**, **AI/ML systems**, and **security research**.
+- Cost function, price function (softmax), max loss bounds
+- Liquidity parameter `b` tuning for slippage/capital tradeoffs
+- Inefficiency detection for quantitative trading signals
+- **Stack:** Python, NumPy, SciPy
 
----
+### [Microstructure Sim](https://github.com/mwaleedta/microstructure-sim)
+**High-Performance Limit Order Book + Market Microstructure Simulator in Rust** — Full market microstructure research platform.
 
-## Currently Building
+- Lock-free LOB with price-time priority, SIMD-optimized hot paths
+- Avellaneda-Stoikov market making, statistical arbitrage modules
+- Exchange feed simulation, latency modeling, cache-line aligned structures
+- **Stack:** Rust, `crossbeam`, `dashmap`, `tokio`
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Fortis Capital** | Quant research platform: AegisNLP (sentiment), Aegis Prediction (TFT), HRP allocation, LangGraph analyst agent | Python, VectorBT, Backtrader, TFT, LangGraph |
-| **Skillova** | Self-hosted RAG pipeline with n8n, Qdrant, Gemini embeddings | n8n, Qdrant, Gemini, TypeScript |
-| **composer-mcp** | MCP server for AI-assisted music generation via Strudel | Rust, MCP, Strudel |
-| **quant-research-skill** | End-to-end quant research toolkit with VectorBT/Backtrader routing | Python, VectorBT, Backtrader |
+### Active Collaborator
+**[pyhrp](https://github.com/tschm/pyhrp)** — Hierarchical Risk Parity, Schur risk parity, and 1/N portfolio allocation. Recursive HRP implementation using `scipy.cluster.hierarchy`. 55★, 23 forks.
 
 ---
 
@@ -40,32 +43,6 @@ Building at the intersection of **quantitative finance**, **AI/ML systems**, and
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## Featured Work
-
-### [Fortis Capital](https://github.com/mwaleedta/fortis-capital)
-Quantitative research platform with sentiment analysis (AegisNLP), temporal fusion transformers for prediction, hierarchical risk parity allocation, and a LangGraph-based analyst agent.
-
-### [Skillova RAG](https://github.com/mwaleedta/skillova-rag)
-Production-grade RAG pipeline with automated ingestion, embedding generation via Gemini, and Qdrant vector storage — orchestrated through n8n.
-
-### [composer-mcp](https://github.com/mwaleedta/composer-mcp)
-Model Context Protocol server enabling AI-assisted algorithmic music composition using Strudel's live coding notation.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwaleedta&show_icons=true&theme=transparent&bg_color=08090a&title_color=f7f8f8&text_color=d0d6e0&icon_color=7170ff&border_color=23252a&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaleedta&layout=compact&theme=transparent&bg_color=08090a&title_color=f7f8f8&text_color=d0d6e0&border_color=23252a&hide_border=true" alt="Top Languages" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwaleedta&theme=transparent&background=08090a&stroke=23252a&ring=7170ff&fire=7170ff&currStreakLabel=f7f8f8&sideNums=d0d6e0&sideLabels=8a8f98&dates=d0d6e0&hide_border=true" alt="GitHub Streak" width="80%">
-</p>
 
 ---
 
