@@ -101,8 +101,13 @@ AI quant trading platform for crypto, stocks, and forex with backtesting, live t
 
 **Open to:** quant dev roles · AI/ML engineering · security research · interesting side projects
 
+---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mwaleedta/mwaleedta/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
+---
 
 <p align="center">
   <sub>It's all code and markets bruv</sub>
