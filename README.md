@@ -30,6 +30,8 @@
 ### Active Collaborator
 **[pyhrp](https://github.com/tschm/pyhrp)** — Hierarchical Risk Parity, Schur risk parity, and 1/N portfolio allocation. Recursive HRP implementation using `scipy.cluster.hierarchy`. 55★, 23 forks.
 
+**[QuantDinger](https://github.com/OpenByteInc/QuantDinger))** — AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research. 11.2k★, 2.3k forks.
+
 ---
 
 ## Tech Stack & Tools
@@ -70,11 +72,11 @@
 
 ## Connect
 
-Open to **quant research roles**, **AI/ML engineering**, and **security research** opportunities.  
-Also happy to collaborate on interesting side projects — reach out via [email](mailto:waleedtariq@proton.me) or [LinkedIn](https://www.linkedin.com/in/waleedtariq/).
+Open to **quant dev roles**, **AI/ML engineering**, and **security research** opportunities.  
+Also happy to collaborate on interesting side projects.
 
 ---
 
 <p align="center">
-  <sub>Built with precision. Deployed with intent.</sub>
+  <sub>It's all code and markets bruv</sub>
 </p>
