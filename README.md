@@ -7,30 +7,58 @@
   <a href="mailto:waleedtariq@proton.me"><img src="https://img.shields.io/badge/Email-waleedtariq@proton.me-191a1b?style=flat&logo=protonmail&logoColor=7170ff" alt="Email"></a>
 </p>
 
+<p align="center">
+  Quant developer & AI engineer building trading infra, market microstructure sims, and agentic AI systems.
+</p>
+
 ---
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [LMSR Pricing Engine](https://github.com/mwaleedta/lmsr-pricing-engine)
-**Logarithmic Market Scoring Rule** — Standalone implementation of the automated market maker (AMM) pricing mechanism for prediction markets. Powers platforms like Polymarket.
+**Logarithmic Market Scoring Rule** — AMM pricing mechanism for prediction markets. Powers platforms like Polymarket.
 
 - Cost function, price function (softmax), max loss bounds
 - Liquidity parameter `b` tuning for slippage/capital tradeoffs
-- Inefficiency detection for quantitative trading signals
+- Inefficiency detection for quant trading signals
 - **Stack:** Python, NumPy, SciPy
 
+</td>
+<td width="50%" valign="top">
+
 ### [Microstructure Sim](https://github.com/mwaleedta/microstructure-sim)
-**High-Performance Limit Order Book + Market Microstructure Simulator in Rust** — Full market microstructure research platform.
+**LOB + Market Microstructure Simulator in Rust** — Full market microstructure research platform.
 
 - Lock-free LOB with price-time priority, SIMD-optimized hot paths
 - Avellaneda-Stoikov market making, statistical arbitrage modules
-- Exchange feed simulation, latency modeling, cache-line aligned structures
+- Exchange feed simulation, latency modeling
 - **Stack:** Rust, `crossbeam`, `dashmap`, `tokio`
 
-### Active Collaborator
-**[pyhrp](https://github.com/tschm/pyhrp)** — Hierarchical Risk Parity, Schur risk parity, and 1/N portfolio allocation. Recursive HRP implementation using `scipy.cluster.hierarchy`. 55★, 23 forks.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**[QuantDinger](https://github.com/OpenByteInc/QuantDinger))** — AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research. 11.2k★, 2.3k forks.
+### Active Collaborator: [pyhrp](https://github.com/tschm/pyhrp)
+Hierarchical Risk Parity, Schur risk parity, and 1/N portfolio allocation. Recursive HRP using `scipy.cluster.hierarchy`.
+
+![Stars](https://img.shields.io/github/stars/tschm/pyhrp?style=flat&logo=github&color=yellow) ![Forks](https://img.shields.io/github/forks/tschm/pyhrp?style=flat&logo=github&color=blue)
+
+</td>
+<td width="50%" valign="top">
+
+### Active Collaborator: [QuantDinger](https://github.com/OpenByteInc/QuantDinger)
+AI quant trading platform for crypto, stocks, and forex with backtesting, live trading, market data, multi-agent research.
+
+![Stars](https://img.shields.io/github/stars/OpenByteInc/QuantDinger?style=flat&logo=github&color=yellow) ![Forks](https://img.shields.io/github/forks/OpenByteInc/QuantDinger?style=flat&logo=github&color=blue)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,30 +78,24 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-alpha.vercel.app/api?username=mwaleedta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=mwaleedta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mwaleedta&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%">
-</p>
-
----
-
-## Currently Exploring
-
-- **Post-quantum cryptography** migration pathways (ML-KEM, X25519 hybrids)
-- **eBPF-based runtime security** for container workloads (Tetragon, Cilium)
-- **Agentic AI frameworks** with tool invocation guardrails
-- **Advanced TFT architectures** for multi-horizon financial forecasting
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=mwaleedta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%">
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com?user=mwaleedta&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%">
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect
+## Currently Exploring & Open To
 
-Open to **quant dev roles**, **AI/ML engineering**, and **security research** opportunities.  
-Also happy to collaborate on interesting side projects.
+**Exploring:** post-quantum cryptography (ML-KEM, X25519 hybrids) · eBPF-based runtime security (Tetragon, Cilium) · agentic AI frameworks with tool invocation guardrails · advanced TFT architectures for multi-horizon forecasting
+
+**Open to:** quant dev roles · AI/ML engineering · security research · interesting side projects
 
 ---
 
