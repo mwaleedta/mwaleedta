@@ -22,10 +22,6 @@
 ### [LMSR Pricing Engine](https://github.com/mwaleedta/lmsr-pricing-engine)
 **Logarithmic Market Scoring Rule** — AMM pricing mechanism for prediction markets. Powers platforms like Polymarket.
 
-- Cost function, price function (softmax), max loss bounds
-- Liquidity parameter `b` tuning for slippage/capital tradeoffs
-- Inefficiency detection for quant trading signals
-- **Stack:** Python, NumPy, SciPy
 
 ![Stars](https://img.shields.io/github/stars/mwaleedta/lmsr-pricing-engine?style=flat&logo=github&color=yellow) ![Forks](https://img.shields.io/github/forks/mwaleedta/lmsr-pricing-engine?style=flat&logo=github&color=blue)
 
@@ -35,10 +31,6 @@
 ### [Microstructure Sim](https://github.com/mwaleedta/microstructure-sim)
 **LOB + Market Microstructure Simulator in Rust** — Full market microstructure research platform.
 
-- Lock-free LOB with price-time priority, SIMD-optimized hot paths
-- Avellaneda-Stoikov market making, statistical arbitrage modules
-- Exchange feed simulation, latency modeling
-- **Stack:** Rust, `crossbeam`, `dashmap`, `tokio`
 
 ![Stars](https://img.shields.io/github/stars/mwaleedta/microstructure-sim?style=flat&logo=github&color=yellow) ![Forks](https://img.shields.io/github/forks/mwaleedta/microstructure-sim?style=flat&logo=github&color=blue)
 
